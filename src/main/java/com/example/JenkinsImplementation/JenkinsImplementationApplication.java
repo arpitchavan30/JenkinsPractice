@@ -12,7 +12,7 @@ public class JenkinsImplementationApplication {
 
 		log.info("Working fine {}");
 		System.out.println("Welcome to Jenkins !!!");
-		System.out.println("let's explore..");
+		System.out.println("let's explore jenkins more..");
 
 	}
 
