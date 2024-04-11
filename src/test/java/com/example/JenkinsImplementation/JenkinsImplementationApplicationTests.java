@@ -9,9 +9,5 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class JenkinsImplementationApplicationTests {
 
-	@Test
-	void contextLoads() {
-//		assertEquals(true,true);
-	}
 
 }
